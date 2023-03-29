@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @curiouscoddes
-- 👀 I’m interested in Python, Bash Scripting, Devops, Terraform, Chef, Ansible, Cloud
+- 👀 I’m interested in C Language, Python, Bash Scripting, Devops, Terraform, Chef, Ansible, Cloud
 - 🌱 I’m currently learning Python, Infrastructure as code, CI/CD pipeline 
 - 💞️ I’m looking to collaborate on Devops
 
